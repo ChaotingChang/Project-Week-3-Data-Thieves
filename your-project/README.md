@@ -18,7 +18,9 @@
 ## Project Description
 Write a short description of your project: 3-5 sentences about what your project is about, why you chose this topic (if relevant), and what you are trying to show.
 
+
 Topic: Politics and national hapiness
+
 
 We are trying to find relevant datasets to analyse on a time relevant and socially relevant topic that affects all countries in europe at the current time (See hypothesis and question below). 
 
@@ -27,12 +29,17 @@ We are trying to find relevant datasets to analyse on a time relevant and social
 
 ## Hypotheses / Questions
 1. Is there a correlation between the happiness of a country and the voting polls of extreme political parties?
+
         1.1 Within a single country - introspective
         1.2 In comparison to other countries in the European union – external comparison (extrospective)
         
+        
 **Look for: ** 
+
 	- Trends over time (two time intervals btw 2012 and 2019)
+
 	- Countries of the European union: start (Sain, Greece, Denmark, Austria, Netherlands)
+
 
 
 - Hypothesis1: There is a negative correlation between extremism (both left and right) and the happiness of a country
@@ -47,8 +54,10 @@ o	Trend prediction for future years
 
 ## Dataset
 Where did you get your data? What dataset did you use or did you build your own datset? If so, did you use an API? Did you scrape a web? Provide links to the data if available.
-    - CSV.: happiness report 2012-2019, election data
-    - Web scrapping: election data and hapiness report 2018
+   
+   - CSV.: happiness report 2012-2019, election data
+   
+   - Web scrapping: election data and hapiness report 2018
 
 
 
@@ -63,11 +72,15 @@ See Trello (link below)
 <a name="organization"></a>
 
 ## Organization
+
 How did you organize yourself? Did you use any tools?
+
 ##### organization:
+
 - group repo
 - group trello with DEADLINES 
 - group slides 
+
 
 ##### Tools:
 Trello
