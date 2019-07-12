@@ -16,31 +16,40 @@
 <a name="project-description"></a>
 
 ## Project Description
-Write a short description of your project: 3-5 sentences about what your project is about, why you chose this topic (if relevant), and what you are trying to show. 
+Write a short description of your project: 3-5 sentences about what your project is about, why you chose this topic (if relevant), and what you are trying to show.
+
+Topic: Politics and national hapiness
+
+We are trying to find relevant datasets to analyse on a time relevant and socially relevant topic that affects all countries in europe at the current time (See hypothesis and question below). 
+
 
 <a name="hypotheses-/-questions"></a>
 
 ## Hypotheses / Questions
 1. Is there a correlation between the happiness of a country and the voting polls of extreme political parties?
-2. Do these countries invest more into internal matter -  specific sectors regional infrastructure and heritage?
-        2.1 Within a single country - introspective
-        2.2 In comparison to other countries in the European union – external comparison (extrospective)
+        1.1 Within a single country - introspective
+        1.2 In comparison to other countries in the European union – external comparison (extrospective)
+        
 **Look for: ** 
-	- Trends over time
-	- Countries of the European union
+	- Trends over time (two time intervals btw 2012 and 2019)
+	- Countries of the European union: start (Sain, Greece, Denmark, Austria, Netherlands)
+
+
 - Hypothesis1: There is a negative correlation between extremism (both left and right) and the happiness of a country
-- Hypothesis 2: Countries which are happier and hold less extreme political views will invest more into regional development and heritage. 
+
+#### Extra Mile challenge:
+o	Extend to all EU countries
+o	Extend over a longer period of time
+o	Trend prediction for future years
 
 
 <a name="dataset"></a>
 
 ## Dataset
 Where did you get your data? What dataset did you use or did you build your own datset? If so, did you use an API? Did you scrape a web? Provide links to the data if available.
--	CSV.: happiness report 2012-2019
--	Json.: aid by objectives from 2012-2017
-https://webgate.ec.europa.eu/comp/redisstat/databrowser/view/COMP_SA_X$COMP_SA_01/default/table
-http://data.europa.eu/euodp/en/data/dataset/Ju4o7srAEdHz4OMPwCWiDQ
--	… : voting results per country per year
+    - CSV.: happiness report 2012-2019, election data
+    - Web scrapping: election data and hapiness report 2018
+
 
 
 [Dataset]() 
@@ -49,17 +58,24 @@ http://data.europa.eu/euodp/en/data/dataset/Ju4o7srAEdHz4OMPwCWiDQ
 
 ## Workflow
 Outline the workflow you used in your project. What were the steps you went through?
+See Trello (link below)
 
 <a name="organization"></a>
 
 ## Organization
 How did you organize yourself? Did you use any tools?
+##### organization:
+- group repo
+- group trello with DEADLINES 
+- group slides 
+
+##### Tools:
 Trello
 Pycharm
 SQL workbench
 Jupyter Notebook
 Stackoverflow
-Slides
+Google slides
 
 <a name="links"></a>
 
