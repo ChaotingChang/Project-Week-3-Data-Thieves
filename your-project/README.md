@@ -1,7 +1,7 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of My Project
-*Cahoting Chang, Salva Rocher, Fabia Höhne Tarragona*
+*Chaoting Chang, Salva Rocher, Fabia Höhne Tarragona*
 
 *Data, June 2019, Barcelona*
 
@@ -34,11 +34,11 @@ We are trying to find relevant datasets to analyse on a time relevant and social
         1.2 In comparison to other countries in the European union – external comparison (extrospective)
         
         
-**Look for: ** 
+**Look for:** 
 
-	- Trends over time (two time intervals btw 2012 and 2019)
+        - Trends over time (two time intervals btw 2012 and 2019)
 
-	- Countries of the European union: start (Sain, Greece, Denmark, Austria, Netherlands)
+        - Countries of the European union: start (Sain, Greece, Denmark, Austria, Netherlands)
 
 
 
