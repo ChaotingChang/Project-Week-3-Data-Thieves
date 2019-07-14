@@ -45,9 +45,9 @@ We are trying to find relevant datasets to analyse on a time relevant and social
 - Hypothesis1: There is a negative correlation between extremism (both left and right) and the happiness of a country
 
 #### Extra Mile challenge:
-o	Extend to all EU countries
-o	Extend over a longer period of time
-o	Trend prediction for future years
+        1.Extend to all EU countries
+        2.Extend over a longer period of time
+        3.Trend prediction for future years
 
 
 <a name="dataset"></a>
