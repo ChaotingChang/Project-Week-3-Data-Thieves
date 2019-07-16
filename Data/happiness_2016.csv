@@ -1,4 +1,4 @@
-,Country,Happiness score,GDP per capita,Social support,Healthy life expectancy,Freedom to make life choices,Generosity importance,Perceptions of corruption
+,Country,Score,GDP,Social support,Healthy life expectancy,Freedom,Generosity,Perceptions of corruption
 0,Denmark,7.526,1.4417843819999998,1.163744926,0.7950401309999999,0.57941258,0.361709565,0.444532186
 6,Netherlands,7.3389999999999995,1.46468389,1.02912271,0.812308967,0.552113593,0.474157631,0.29926806699999997
 9,Sweden,7.291,1.45181036,1.087640166,0.8312124009999999,0.5821848510000001,0.382537901,0.408665925
