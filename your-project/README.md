@@ -25,14 +25,17 @@ We are trying to find relevant datasets to analyse on a time relevant and social
 
 <a name="hypotheses-/-questions"></a>
 
-## Hypotheses / Questions
-1. Is there a correlation between the happiness of a country and the voting polls of extreme political parties?
+## Hypotheses / Questions  
+
+
+**Is there a correlation between the happiness of a country and the voting polls of extreme political parties?**
 
         1.1 Within a single country - introspective
         1.2 In comparison to other countries in the European union – external comparison (extrospective)
         
-        
-**Look for:** 
+
+
+*Look for:*
 
         - Trends over time (two time intervals btw 2012 and 2019)
 
@@ -40,7 +43,10 @@ We are trying to find relevant datasets to analyse on a time relevant and social
 
 
 
-- Hypothesis: There is a negative correlation between extremism (both left and right) and the happiness of a country
+**Hypothesis:**   
+
+There is a negative correlation between extremism (both left and right) and the happiness of a country.
+
 
 #### Extra Mile challenge:
         1.Extend to all EU countries  
